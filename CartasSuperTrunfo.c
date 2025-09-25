@@ -24,36 +24,36 @@ int main() {
   int ponto_tur2;
 
   // Área para entrada de dados
-printf("insira os dados da carta 01");
-   printf("Estado");
+printf("insira os dados da carta 01\n");
+   printf("Estado\n");
     scanf(estado1);
-  printf("Código da carta");
+  printf("Código da carta\n");
     scanf(codigo1);
-  printf("Nome da Cidade");
+  printf("Nome da Cidade\n");
     scanf(nome_cidade1);
-  printf("população");
+  printf("população\n");
     scanf(populacao1);
-  printf("área");
+  printf("área\n");
     scanf(area1);
-  printf("PIB");
+  printf("PIB\n");
     scanf(pib1);
-  printf("Número de pontos turisticos");
+  printf("Número de pontos turisticos\n");
     scanf(ponto_tur1);
 
-    printf("insira os dados da carta 02");
-   printf("Estado");
+    printf("insira os dados da carta 02\n");
+   printf("Estado\n");
     scanf(estado2);
-  printf("Código da carta");
+  printf("Código da carta\n");
     scanf(codigo2);
-  printf("Nome da Cidade");
+  printf("Nome da Cidade\n");
     scanf(nome_cidade2);
-  printf("população");
+  printf("população\n");
     scanf(populacao2);
-  printf("área");
+  printf("área\n");
     scanf(area2);
-  printf("PIB");
+  printf("PIB\n");
     scanf(pib2);
-  printf("Número de pontos turisticos");
+  printf("Número de pontos turisticos\n");
     scanf(ponto_tur2);
   
   // Área para exibição dos dados da cidade
